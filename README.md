@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud Computing.
 - 🌱 I’m currently learning GitHub, DevOps, CI/CD pipelines.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 you can reach at galvez.josue@outlook.com
+- 📫 you can reach me at galvez.josue@outlook.com
 - ⚡ Fun fact: I love learning new things, love technology, and like playing soccer.
 
 <!---
