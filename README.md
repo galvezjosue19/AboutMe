@@ -1,11 +1,9 @@
-- 👋 Hi, I’m Josue Galvez
-- 👀 I’m interested in Cloud Computing.
-- 🌱 I’m currently learning GitHub, DevOps, CI/CD pipelines.
-- 💞️ I’m looking to collaborate on projects.
-- 📫 you can reach me at galvez.josue@outlook.com
-- ⚡ Fun fact: I love learning new things, love technology, and like playing soccer.
+👋 Hi there! I'm Josue Galvez, and I'm passionate about Cloud Computing and DevOps things.
 
-<!---
-galvezjosue19/galvezjosue19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently, I'm diving into GitHub, DevOps, and CI/CD pipelines to enhance my skills.
+
+💼 Open to collaboration on exciting projects that push the boundaries of technology.
+
+📧 Reach out to me at galvez.josue@outlook.com to discuss ideas or opportunities and visit my website www.josue-galvez.com to learn more about me.
+
+⚡ Fun fact: I'm always eager to learn new things, deeply enthusiastic about technology, and enjoy playing soccer in my free time.
